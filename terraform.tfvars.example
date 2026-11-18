@@ -1,0 +1,7 @@
+region = "ap-south-1"
+name = "healthcare-poc"
+github_repository = "YOUR_GITHUB_USER/healthcare-poc"
+github_branch = "main"
+web_cidrs = ["203.0.113.10/32"] # Replace documentation IP with your real public IPv4.
+# existing_github_oidc_arn = "arn:aws:iam::123456789012:oidc-provider/token.actions.githubusercontent.com"
+# alarm_topic_arn = "arn:aws:sns:ap-south-1:123456789012:operations-alerts"
